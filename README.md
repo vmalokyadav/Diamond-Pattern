@@ -1,0 +1,2 @@
+# Diamond-Pattern
+alok
